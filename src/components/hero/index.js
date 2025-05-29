@@ -31,7 +31,7 @@ const Hero = (props) => {
             </div>
           </div>
           <div className="right-vec">
-            <img src={props.heroImg} alt="" />
+            <img className="mr-20" src={props.heroImg} alt="" />
             <div className="right-border">
               <div className="right-icon">
                 <i className="fi flaticon-quran"></i>

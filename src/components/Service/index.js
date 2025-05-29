@@ -31,7 +31,7 @@ const Service = (props) => {
                                         <li>Late registration</li>
                                         <li>17.8.2021</li>
                                         <li>1.12.2021</li>
-                                    </ul>
+                                    </ul>  
                                     <ul>
                                         <li>Last day</li>
                                         <li>20.9.2021</li>
