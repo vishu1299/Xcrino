@@ -23,7 +23,9 @@ const HeaderTopbar = () => {
             <div className="contact-info">
               <ul>
                 <li>
-                  <Link to="/login">Login</Link>
+                  <a target="_blank" href="https://edumim-xi.vercel.app/">
+                    Login
+                  </a>
                 </li>
                 <li>
                   <Link to="/signup">Sign Up</Link>
